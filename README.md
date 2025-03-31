@@ -12,6 +12,7 @@
 
 
 ### project overview
+----
 
 This project explores an Online Retail Dataset to uncover customer purchasing behavior, sales trends, and product performance. Using Excel for data cleaning and Power BI for visualization, the analysis highlights key business insights.
 
