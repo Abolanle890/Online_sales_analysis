@@ -15,6 +15,9 @@
 
 This project explores an Online Retail Dataset to uncover customer purchasing behavior, sales trends, and product performance. Using Excel for data cleaning and Power BI for visualization, the analysis highlights key business insights.
 
+![image alt](https://github.com/Abolanle890/Online_sales_analysis/blob/2d866eba50c89f37086e76ba124357ded752eefa/Picture.png)
+
+
 ### Data source
 
 This dataset was obtained from Forage as part of a job simulation program designed to mimic real-world business scenarios. It represents transactions from an online retail store, including details on sales, customers, and products.
